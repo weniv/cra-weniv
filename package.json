@@ -1,6 +1,18 @@
 {
     "name": "cra-template-cra-weniv",
     "version": "0.1.0",
+    "description": "Custom Create React App template to generate projects with minimal files.",
+    "keywords": [
+        "cra",
+        "react",
+        "create-react-app",
+        "weniv",
+        "cra-template"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/weniv/cra-weniv"
+    },
     "browserslist": {
         "production": [
             ">0.2%",
